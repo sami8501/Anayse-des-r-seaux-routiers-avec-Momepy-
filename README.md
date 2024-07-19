@@ -112,10 +112,6 @@ Le notebook fourni illustre l'analyse du réseau piéton de Troyes, démontrant 
 - L'étude de la continuité des rues
 - L'analyse de la linéarité des segments de rue
 
-## Contribution
-
-Les contributions à Momepy sont les bienvenues. Veuillez consulter le guide de contribution sur le dépôt GitHub du projet pour plus d'informations.
-
 ## Licence
 
 Momepy est distribué sous licence BSD 3-Clause. Voir le fichier LICENSE pour plus de détails.
@@ -123,6 +119,3 @@ Momepy est distribué sous licence BSD 3-Clause. Voir le fichier LICENSE pour pl
 ## Contact
 
 Pour plus d'informations, visitez la [documentation officielle de Momepy](http://docs.momepy.org/).
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/21663081/cc376a8c-b24c-4a91-bd60-83ee30b621fc/paste.txt
